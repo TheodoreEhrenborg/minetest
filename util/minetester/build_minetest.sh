@@ -1,3 +1,4 @@
+set -e
 ROOT=$(pwd)
 
 mkdir -p build/normal

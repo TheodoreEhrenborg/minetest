@@ -1,3 +1,4 @@
+set -e
 mkdir -p build/package
 cp setup.py build/package/
 cp -r minetester build/package/

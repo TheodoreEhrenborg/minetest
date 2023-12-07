@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 # Get the operating system name
 OS=$(lsb_release -si)

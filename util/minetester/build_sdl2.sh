@@ -1,3 +1,4 @@
+set -e
 cd lib/SDL
 mkdir build
 cd build
